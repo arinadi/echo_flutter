@@ -2,7 +2,7 @@
 
 Speech To Text > Text To Speech.
 
-[![DEMO](https://img.youtube.com/vi/_rncNqsXipc/0.jpg)](https://www.youtube.com/watch?v=_rncNqsXipc)
+[![DEMO](https://img.youtube.com/vi/_rncNqsXipc/0.jpg)](https://www.youtube.com/watch?v=_rncNqsXipc-Y?t=1s "Demo")
 
 
 ## Getting Started
