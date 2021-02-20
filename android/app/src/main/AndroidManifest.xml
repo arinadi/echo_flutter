@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="id.my.webmaker.speak_to_text">
+    package="id.my.webmaker.echo">
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.RECORD_AUDIO" />
     <queries>
@@ -8,7 +8,7 @@
         </intent>
     </queries>
    <application
-        android:label="speak_to_text"
+        android:label="Echo"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

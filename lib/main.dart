@@ -1,6 +1,6 @@
 import 'package:avatar_glow/avatar_glow.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_tts_improved/flutter_tts_improved.dart';
+import 'package:flutter_tts/flutter_tts.dart';
 import 'package:highlight_text/highlight_text.dart';
 import 'package:speech_to_text/speech_to_text.dart' as stt;
 
@@ -82,7 +82,7 @@ class _SpeechScreenState extends State<SpeechScreen> {
   };
 
   stt.SpeechToText _speech;
-  FlutterTtsImproved tts = FlutterTtsImproved();
+  FlutterTts tts = FlutterTts();
   String _platformVersion = 'Unknown';
   bool _isListening = false;
   bool _preparationProcess = false;

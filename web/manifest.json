@@ -1,6 +1,6 @@
 {
-    "name": "speak_to_text",
-    "short_name": "speak_to_text",
+    "name": "echo",
+    "short_name": "echo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
